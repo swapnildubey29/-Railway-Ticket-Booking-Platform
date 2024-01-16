@@ -1,2 +1,20 @@
-# -Railway-Ticket-Booking-Platform
-Developed a comprehensive Railway Ticket Booking Platform using the MERN stack (MongoDB, Express.js, React-Redux, Node.js), showcasing proficiency in both front-end and back-end technologies. Implemented user interfaces with React-Redux for a seamless and responsive user experience, and leveraged Express.js and Node.js for building a robust server.
+### MERN STACK
+
+This is a Demo Railway Ticket Booking Platform using MERN...
+
+Persistent User Authentication has been implemented using JWT.
+
+To Run the App locally, follow the steps;
+
+### Requirements:
+1. NPM
+2. Node
+3. Mongodb
+
+### Run the Commands from root directory:
+1. npm install
+2. npm start
+
+The site is live at https://localhost:5000/
+
+That's it. Your good to go...
